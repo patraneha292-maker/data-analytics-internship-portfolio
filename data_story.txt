@@ -1,0 +1,16 @@
+TASK 4: DATA STORYTELLING
+==================================================
+Total sales recorded: 215000.00
+Average sales value: 17916.67
+Number of records: 12
+Minimum sales value: 2000.00
+Maximum sales value: 90000.00
+Highest sales category: Electronics
+Highest category sales: 175500.00
+Highest sales product: Laptop
+Highest product sales: 135000.00
+
+BUSINESS OBSERVATIONS
+1. Sales performance can be compared across categories.
+2. Product-level sales help identify revenue contributors.
+3. Statistical testing is used to examine differences and relationships in the dataset.

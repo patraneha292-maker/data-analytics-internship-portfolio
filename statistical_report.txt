@@ -1,0 +1,13 @@
+TASK 4: STATISTICAL VALIDATION
+==================================================
+
+T-Test comparing Electronics and Furniture
+T-statistic: 1.3623
+P-value: 0.2218
+Conclusion: Fail to reject the null hypothesis. There is insufficient evidence of a statistically significant difference.
+
+Chi-Square Test
+Chi-square statistic: 12.0000
+P-value: 0.0620
+Degrees of freedom: 6
+Conclusion: Fail to reject the null hypothesis. There is insufficient evidence of an association between category and product.
