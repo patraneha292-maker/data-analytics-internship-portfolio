@@ -1,0 +1,13 @@
+Order_ID,Date,Product,Category,Quantity,Price,Region,Total_Sales
+1001,2026-01-05,Laptop,Electronics,2,45000,East,90000
+1002,2026-01-06,Mouse,Electronics,5,500,West,2500
+1003,2026-01-07,Keyboard,Electronics,3,1200,North,3600
+1004,2026-01-08,Chair,Furniture,2,3500,South,7000
+1005,2026-01-09,Table,Furniture,1,7000,East,7000
+1006,2026-01-10,Laptop,Electronics,1,45000,West,45000
+1007,2026-01-11,Mouse,Electronics,4,500,North,2000
+1008,2026-01-12,Chair,Furniture,3,3500,South,10500
+1009,2026-01-13,Monitor,Electronics,2,15000,East,30000
+1010,2026-01-14,Desk,Furniture,1,8000,West,8000
+1011,2026-01-15,Keyboard,Electronics,2,1200,North,2400
+1012,2026-01-16,Chair,Furniture,2,3500,South,7000
